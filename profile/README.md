@@ -11,7 +11,7 @@ Yasumu is built using modern, efficient technologies like **Tauri**, **React**, 
 | Project Name                                                                 | Description                                                                                                                                         | Tech Stack                                                      |
 |------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
 | [**Yasumu**](https://github.com/yasumu-org/yasumu)                            | A free and open-source API testing application, serving as a lightweight alternative to Postman, Insomnia, and Bruno.                                           | Tauri, React, TypeScript                                        |
-| [**Tanxium**](https://github.com/yasumu-org/tanxium)                          | An embeddable JavaScript/TypeScript runtime built in Rust, based on the Boa engine, and integrated into Yasumu for API scripting and automation.     | Rust, Boa engine                                                |
+| [**Tanxium**](https://github.com/yasumu-org/tanxium)                          | An embeddable JavaScript/TypeScript runtime built in Rust, based on [Deno](https://deno.land) runtime primitives, and integrated into Yasumu for API scripting and automation.     | Rust, Deno                                                |
 
 ## Join the Movement
 
