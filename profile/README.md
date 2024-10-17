@@ -4,7 +4,9 @@ At **Yasumu**, we are on a mission to build a free, open-source API testing plat
 
 ## About Yasumu
 
-Yasumu is built using modern, efficient technologies like **Tauri**, **React**, and **TypeScript**, providing a lightweight yet powerful interface for testing APIs. Unlike traditional API testing platforms, Yasumu is focused on speed, privacy, and minimal resource usage, making it an excellent alternative to commercial tools such as Postman, Insomnia, or Bruno.
+Yasumu is built using modern, efficient technologies like **Tauri**, **React**, and **TypeScript**, providing a lightweight yet powerful interface for testing APIs. Unlike traditional API testing platforms, Yasumu is focused on speed, privacy, and minimal resource usage, making it an excellent alternative to commercial tools such as Postman, Insomnia`*`, or Bruno`*`.
+
+> `*` Has both Open Source and Paid version.
 
 ## Key Projects
 
@@ -12,6 +14,8 @@ Yasumu is built using modern, efficient technologies like **Tauri**, **React**, 
 |------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
 | [**Yasumu**](https://github.com/yasumu-org/yasumu)                            | A free and open-source API testing application, serving as a lightweight alternative to Postman, Insomnia, and Bruno.                                           | Tauri, React, TypeScript                                        |
 | [**Tanxium**](https://github.com/yasumu-org/tanxium)                          | An embeddable JavaScript/TypeScript runtime built in Rust, based on [Deno](https://deno.land) runtime primitives, and integrated into Yasumu for API scripting and automation.     | Rust, Deno                                                |
+| [**Yasumu Core**](https://github.com/yasumu-org/yasumu/tree/main/packages/core) | Yasumu core api allows integrating yasumu's internal logic with custom APIs. | TypeScript |
+| [**Yasumu Schema Language**](https://github.com/yasumu-org/yasumu/tree/main/packages/schema) | Custom schema language for Yasumu | TypeScript |
 
 ## Join the Movement
 
