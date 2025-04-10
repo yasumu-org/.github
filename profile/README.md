@@ -2,6 +2,9 @@
 
 At **Yasumu**, we are on a mission to build a free, open-source API testing platform for developers that is intuitive and powerful. Our tools are designed with simplicity in mind, making API testing easier for everyone. Whether you're a seasoned developer or just starting out, our platform offers the features you need without unnecessary complexity.
 
+> [!NOTE]  
+> Yasumu has moved to [neplex](https://github.com/neplextech/yasumu). This org only holds archived old repos of yasumu.
+
 ## About Yasumu
 
 Yasumu is built using modern, efficient technologies like **Tauri**, **React**, and **TypeScript**, providing a lightweight yet powerful interface for testing APIs. Unlike traditional API testing platforms, Yasumu is focused on speed, privacy, and minimal resource usage, making it an excellent alternative to commercial tools such as Postman, Insomnia`*`, or Bruno`*`.
